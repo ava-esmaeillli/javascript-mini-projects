@@ -75,14 +75,12 @@ During this project I practiced:
 Clone the repository:
 
 ```bash
-git clone https://github.com/ava-esmaeillli/javascript-expense-tracker.git
+git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
 ```
-
-Open `index.html` in your browser.
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 ![Expense Tracker Screenshot](./assets/preview.png)
 
