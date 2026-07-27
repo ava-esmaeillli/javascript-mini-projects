@@ -6,7 +6,13 @@ This project focuses on clean code structure, state management, local storage pe
 
 ---
 
-## 🚀 Features
+## 🌐 Live Demo
+
+🔗 [View Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/todo-app/index.html)
+
+---
+
+## ✨ Features
 
 - Add new todos
 - Delete todos
@@ -101,39 +107,26 @@ While building this project, I practiced:
 
 ---
 
+## 🚀 How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
+```
+Navigate to the project folder:
+```bash
+cd javascript-mini-projects/todo-app
+```
+Open `index.html` in your browser.
+
+---
+
 ## 📸 Preview
 
 ![Todo App Preview](./assets/preview.png)
 
 ---
 
-## ▶️ How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/todo-app.git
-```
-
-2. Open the project folder.
-
-3. Run `index.html` using a local server.
-
----
-
-## 📌 Future Improvements
-
-- Add dark mode
-- Add edit todo feature
-- Add animations
-- Connect to a backend API
-- Add user authentication
-
----
-
-## 🌐 Live Demo
-
-[View Live Demo](https://ava-esmaeillli.github.io/javascript-todo-app/)
-
 ## 👩‍💻 Author
+
 Created by Ava
