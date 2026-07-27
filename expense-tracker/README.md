@@ -12,12 +12,6 @@ This app allows users to manage their daily expenses by adding, editing, deletin
 
 ---
 
-## 📸 Screenshot
-
-![Expense Tracker Screenshot](./assets/preview.png)
-
----
-
 ## ✨ Features
 
 - ➕ Add new expenses
@@ -33,7 +27,7 @@ This app allows users to manage their daily expenses by adding, editing, deletin
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
@@ -76,7 +70,7 @@ During this project I practiced:
 
 ---
 
-## ⚙️ Installation
+## 🚀 How to Run
 
 Clone the repository:
 
@@ -88,6 +82,12 @@ Open `index.html` in your browser.
 
 ---
 
+## 📸 Screenshot
+
+![Expense Tracker Screenshot](./assets/preview.png)
+
+---
+
 ## 👩‍💻 Author
 
-**Ava**
+**Created by Ava**
