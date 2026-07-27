@@ -56,7 +56,7 @@ expense-tracker/
 
 ---
 
-## 🧠 What I Learned
+## 💡 What I Learned
 
 During this project I practiced:
 
@@ -86,7 +86,7 @@ Open `index.html` in your browser.
 
 ## 📸 Preview
 
-![Expense Tracker Screenshot](./assets/preview.png)
+![Expense Tracker Preview](./assets/preview.png)
 
 ---
 
