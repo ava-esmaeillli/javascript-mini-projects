@@ -14,7 +14,7 @@ This app allows users to manage their daily expenses by adding, editing, deletin
 
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](./preview.png)
+![Expense Tracker Screenshot](./assets/preview.png)
 
 ---
 
