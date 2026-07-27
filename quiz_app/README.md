@@ -6,7 +6,7 @@ Users can answer multiple-choice questions, receive instant feedback, track thei
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](https://ava-esmaeillli.github.io/javascript-quiz-app/)
+🔗 [View Live Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/quiz-app/)
 
 ---
 
