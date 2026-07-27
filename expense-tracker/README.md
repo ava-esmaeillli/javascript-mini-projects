@@ -69,13 +69,18 @@ During this project I practiced:
 - Filtering and sorting data
 
 ---
-
 ## 🚀 How to Run
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
+
+Navigate to the project folder:
+
+cd javascript-mini-projects/quiz_app
+
+Open index.html in your browser.
 ```
 
 ---
@@ -88,4 +93,4 @@ git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
 
 ## 👩‍💻 Author
 
-**Created by Ava**
+Created by Ava
