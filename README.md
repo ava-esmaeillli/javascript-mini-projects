@@ -15,8 +15,8 @@ A collection of small JavaScript projects for learning and practicing DOM manipu
 | Project | Description | Demo |
 |---|---|---|
 | Expense Tracker | Manage expenses with localStorage | [Live Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/expense-tracker/) |
-| Todo App | Task management app with localStorage | [Live Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/todo-app/) |
 | Quiz App | Multiple choice quiz application | [Live Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/quiz-app/) |
+| Todo App | Task management app with localStorage | [Live Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/todo-app/) |
 
 ---
 
