@@ -8,7 +8,7 @@ This app allows users to manage their daily expenses by adding, editing, deletin
 
 ## 🚀 Live Demo
 
-🔗 [View Demo](YOUR_DEMO_LINK)
+🔗 [View Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/expense-tracker/index.html)
 
 ---
 
