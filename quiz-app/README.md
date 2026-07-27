@@ -54,8 +54,16 @@ Quiz-App
 ---
 
 ## 🚀 How to Run
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
+
+Clone the repository:
+```bash
+git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
+```
+Navigate to the project folder:
+```bash
+cd javascript-mini-projects/quiz_app
+```
+Open `index.html` in your browser.
 
 ---
 
