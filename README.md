@@ -4,6 +4,8 @@ A collection of small JavaScript projects for learning and practicing DOM manipu
 
 ---
 
+## 🌐 Live Demo
+
 🔗 [View Demo](https://ava-esmaeillli.github.io/javascript-mini-projects/)
 
 ---
@@ -14,13 +16,3 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
-
----
-
-## 📂 Projects
-
-| Project | Description |
-|---|---|
-| Expense Tracker | Manage expenses with localStorage |
-| Todo App | Task management app |
-| Quiz App | Multiple choice quiz |
