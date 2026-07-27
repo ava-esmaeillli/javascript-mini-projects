@@ -75,13 +75,15 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ava-esmaeillli/javascript-mini-projects.git
+```
 
 Navigate to the project folder:
 
+```bash
 cd javascript-mini-projects/quiz_app
+```
 
 Open index.html in your browser.
-```
 
 ---
 
