@@ -2,6 +2,10 @@
 A responsive quiz application built with HTML, CSS, and JavaScript.
 Users can answer multiple-choice questions, receive instant feedback, track their score, and restart the quiz. The application also includes a Dark/Light mode feature with theme persistence using LocalStorage.
 
+## 🌐 Live Demo
+[View Live Demo](https://ava-esmaeillli.github.io/javascript-quiz-app/)
+
+
 ## ✨ Features
 - Multiple-choice quiz system
 - Score tracking
@@ -49,9 +53,6 @@ Quiz-App
 
 ### Dark Mode
 ![Dark Mode](./assets/dark-mode.png)
-
-## 🌐 Live Demo
-[View Live Demo](https://ava-esmaeillli.github.io/javascript-quiz-app/)
 
 ## 👩‍💻 Author
 Created by **Ava**
